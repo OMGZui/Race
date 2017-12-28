@@ -1,4 +1,4 @@
-# SDK-Laravel5.5
+# Race
 
 ## 老哥，干嘛的啊
 
@@ -7,7 +7,7 @@
 ## 老哥，怎么用啊
 
 ```php
-git clone https://github.com/OMGZui/SDK-Laravel5.5.git
+https://github.com/OMGZui/Race.git
 composer install
 cp .env.example .env
 chown -R 775 storage
